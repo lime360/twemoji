@@ -1,4 +1,4 @@
-# Twitter Emoji (Twemoji) [![Build Status](https://travis-ci.org/twitter/twemoji.svg?branch=gh-pages)](https://travis-ci.org/twitter/twemoji)
+# Twitter Emoji (Twemoji)
 
 A simple library that provides standard Unicode [emoji](http://en.wikipedia.org/wiki/Emoji) support across all platforms.
 
@@ -10,7 +10,7 @@ The Twemoji library offers support for all Unicode-defined emoji which are recom
 
 ### CDN Support
 
-<del>The folks over at [MaxCDN](https://www.maxcdn.com) have graciously provided CDN support.</del>
+~~The folks over at [MaxCDN](https://www.maxcdn.com) have graciously provided CDN support.~~
 
 MaxCDN is shut down right now, so in the meanwhile use a different CDN or download the assets. (See [Maxcdn has shut down, cdn not working anymore. · Issue #580 · twitter/twemoji](https://github.com/twitter/twemoji/issues/580)).
 
